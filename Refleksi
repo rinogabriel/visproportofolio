@@ -1,0 +1,13 @@
+chalangge yang didapat saat mengerjakan tugas portofolio flutter :
+
+1. responsif : belum selesai
+    saat mengerjakan saya skip untuk mengerjakan ini pertama karna saya kira mudah tapi ribet untuk menyelesaikannya
+
+2. membuat card yang ada diproject dapat diclik dan masuk ke page : belum selesai
+    ini sulit karena masih coba coba
+
+3. split screen : selesai tapi belum responsif
+    cara menyelsaikannya harus memakai widget expanded untuk membagikannya dan memasukan dua bagian screen ke child
+
+4. card untuk icn icon di profil : belum selesai
+    membutuhkan waktu yang untuk menyelesaikannya
